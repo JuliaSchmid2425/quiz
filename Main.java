@@ -1,5 +1,5 @@
 //que torni a preguntar quantes preguntes vol fer a la segona repeticio del loop
-
+//hola
 
 import java.io.*;
 import java.text.SimpleDateFormat;
